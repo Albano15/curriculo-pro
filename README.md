@@ -1,6 +1,5 @@
 # CurriculoPro - Criador de Currículos Profissionais
 
-![Preview do CurriculoPro](preview.png) <!-- Adicione uma imagem de preview depois -->
 
 O CurriculoPro é uma aplicação web completa que permite criar, personalizar e exportar currículos profissionais em formato PDF. Com uma interface intuitiva, você pode preencher seus dados, visualizar em tempo real e gerar um PDF elegante para impressão ou envio digital.
 
