@@ -1,0 +1,39 @@
+# Dependências
+frontend/node_modules/
+
+# Ambiente
+frontend/.env
+frontend/.env.local
+
+# Builds
+frontend/build/
+frontend/dist/
+
+# Logs
+frontend/*.log
+frontend/logs/
+
+# Sistema operacional
+frontend/.DS_Store
+
+# IDE/Editor
+frontend/.idea/
+frontend/.vscode/
+
+# Backup
+*.bak
+
+# Uploads (não versionar imagens enviadas por usuários)
+backend/public/uploads/*
+!backend/public/uploads/.gitkeep
+
+# Arquivos temporários
+*.tmp
+
+# Certificados SSL
+*.pem
+*.crt
+*.key
+
+# Arquivos do sistema
+Thumbs.db
